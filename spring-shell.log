@@ -1,0 +1,10 @@
+1591471405899:help
+1591471421149:scripts
+1591472475180:exit
+1591472587805:clean C:\\Users\\Hammer\\IdeaProjects\\email_dataset.xlsx
+1591472609854:clean -F C:\\Users\\Hammer\\IdeaProjects\\email_dataset.xlsx
+1591472624372:stacktrace
+1591472656415:clean -F C:\\\\Users\\\\Hammer\\\\IdeaProjects\\\\email_dataset.xlsx
+1591474298709:stacktrace
+1591474341520:clean -F C:\\\\Users\\\\Hammer\\\\IdeaProjects\\\\email_dataset.xlsx
+1591620472360:clean -F C:\\\\Users\\\\Hammer\\\\IdeaProjects\\\\email_dataset_de.xlsx
